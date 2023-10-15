@@ -1,0 +1,3 @@
+C:/Users/sovae/CLionProjects/lab_0b/cmake-build-debug/CMakeFiles/lab_0b.dir
+C:/Users/sovae/CLionProjects/lab_0b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sovae/CLionProjects/lab_0b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
