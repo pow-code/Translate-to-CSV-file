@@ -1,2 +1,2 @@
 # OOP-C-
-Here ara OOP my tasks 
+Here are OOP my tasks 
